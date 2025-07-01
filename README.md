@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Global Market Dashboard
+
+A modern, responsive dashboard providing live prices and trends for global financial markets—including major stock indexes, forex pairs, metals, and cryptocurrencies. Built with Next.js and powered by TradingView widgets, this project offers a comprehensive and visually appealing overview of the world's key markets.
+
+---
+
+## Features
+
+- Live prices and trends for major market indexes
+- Real-time data for key forex pairs and metals
+- Top cryptocurrencies with up-to-date charts
+- Comprehensive market chart for in-depth analysis
+- Clean, responsive UI with dark mode
+- Powered by TradingView widgets for reliable financial data
+
+---
+
+## Demo
+
+[Live Demo](https://market-dashboard-nexora.vercel.app/) <!-- Replace # with your deployed app link -->
+
+---
+
+## Tech Stack
+
+- **Frontend:** Next.js, React, CSS/Styled Components
+- **Data:** TradingView Widgets
+- **Deployment:** Vercel/Netlify/Other (specify)
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone the repository
+git clone https://github.com/nexora-w/Global-Market-Dashboard.git
+cd Global-Market-Dashboard
+
+# Install dependencies
+npm install # or yarn install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Usage
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Start the development server
+npm run dev # or yarn dev
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Open http://localhost:3000 in your browser
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the [MIT License](LICENSE).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Contact
+
+For questions or support, please contact [kitchi734@gmail.com](mailto:kitchi734@gmail.com) or open an issue in the repository.
